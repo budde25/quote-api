@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/ad44335b-b8b9-41f0-b970-5cbfd4f747c7/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/tfQuoteApi",
+    "appService.deploySubpath": ""
+}
