@@ -6,9 +6,9 @@
     "start": "node ./bin/www"
   },
   "dependencies": {
-    "@tensorflow/tfjs": "^1.5.2",
-    "@tensorflow/tfjs-node": "^1.5.2",
-    "cookie-parser": "~1.4.4",
+    "@tensorflow/tfjs": "^2.6.0",
+    "@tensorflow/tfjs-node": "^2.6.0",
+    "cookie-parser": "^1.4.5",
     "debug": "~2.6.9",
     "express": "^4.17.1",
     "http-errors": "~1.6.3",
